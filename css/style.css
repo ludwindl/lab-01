@@ -1,0 +1,57 @@
+div {
+    background-color: red;
+    border: 2px solid black;
+    margin: auto;
+}
+@media all and (max-width: 480px){}
+.div1 {
+    height: 75px;
+    width: 32%;
+
+}
+.div2 { 
+    height: 150px;
+    width: 480px;
+}
+.div3 {
+    height: 125px;
+    width: 480px;
+    
+}
+
+.div4 {
+    height: 125px;
+    width: 480px;
+    
+}
+
+.div5 {
+
+    height: 250px;
+    width: 240px;
+    float: left;
+
+}
+
+.div6 {
+
+    height: 250px;
+    width: 240px;
+
+
+}
+
+.div7 {
+    height: 250px;
+    width: 240px;
+    float: left;
+}
+
+.div8 {
+    height: 250px;
+    width: 240px;
+}
+.div9 {
+    height: 80px;
+    width: 480px;
+}
