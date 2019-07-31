@@ -1,1 +1,55 @@
+.a {
+    background-color: blue;
+    width: 100%;
+    height: 75px;
+    margin: auto;
+}
+.b {
+    background-color: blue;
+    width: 100%;
+    height: 150px;
+    margin:auto;
 
+}
+.c {
+    background-color: blue;
+    width: 100%;
+    height: 125px;
+    margin:auto;
+}
+.d {
+    background-color: blue;
+    width: 100%;
+    height: 125px;
+    margin:auto;
+}
+.ef {
+    background-color: blue;
+    width: 50%;
+    height: 250px;
+    text-align: center;
+    float: left;
+    clear: right;
+    position: relative;
+    
+    
+
+}
+.g {
+    clear: left;
+    float: left;
+
+}
+.h {
+    float: left;
+}
+.gh {
+    background-color: blue;
+    width: 50%;
+    height: 250px;
+    text-align: center;
+    /* float: left; */
+    position: relative;
+    margin:auto;
+    
+}
