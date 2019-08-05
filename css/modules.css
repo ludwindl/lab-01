@@ -1,4 +1,4 @@
-.a {
+/*.a {
     background-color: blue;
     width: 100%;
     height: 75px;
@@ -47,15 +47,16 @@
     background-color: blue;
     width: 50%;
     height: 250px;
-    text-align: center;
+    text-align: center;*/
+    /*this float is commented*/
     /* float: left; */
-    position: relative;
-    margin:auto;
+    /*position: relative;
+    margin:auto;*/
     
 }
-.i {
+/*.i {
     background-color: blue;
     clear: both;
     width:100%;
     height: 80px;
-}
+}*/
