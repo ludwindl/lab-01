@@ -53,3 +53,9 @@
     margin:auto;
     
 }
+.i {
+    background-color: blue;
+    clear: both;
+    width:100%;
+    height: 80px;
+}
