@@ -1,30 +1,28 @@
-/*.a {
-    background-color: blue;
+
+.a {
+    
     width: 100%;
     height: 75px;
     margin: auto;
 }
 .b {
-    background-color: blue;
     width: 100%;
     height: 150px;
     margin:auto;
 
 }
 .c {
-    background-color: blue;
     width: 100%;
     height: 125px;
     margin:auto;
 }
 .d {
-    background-color: blue;
+
     width: 100%;
     height: 125px;
     margin:auto;
 }
 .ef {
-    background-color: blue;
     width: 50%;
     height: 250px;
     text-align: center;
@@ -44,19 +42,17 @@
     float: left;
 }
 .gh {
-    background-color: blue;
     width: 50%;
     height: 250px;
-    text-align: center;*/
+    text-align: center;
     /*this float is commented*/
     /* float: left; */
-    /*position: relative;
-    margin:auto;*/
-    
+    position: relative;
+    margin:auto;    
 }
-/*.i {
-    background-color: blue;
+.i {
     clear: both;
     width:100%;
     height: 80px;
-}*/
+}
+

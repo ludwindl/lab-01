@@ -1,1 +1,52 @@
+@media only screen and  (min-width: 768px){
 
+    .a {
+      width: 100%;
+      height: 100px;
+      margin: auto;
+  }
+  .b {
+      width: 20.8%;
+      height: 600px;
+      float: left;
+  
+  }
+  .c {
+      width: 39.6%;
+      height: 200px;
+      float: left;
+      
+  }
+  .d {
+      width: 39.6%;
+      height: 200px;
+      float: left;
+  }
+  .e {
+     width: 19.8%;
+     height: 250px;
+     float: left;
+  }
+  .f {
+      width: 19.8%;
+      height: 250px;
+      float: left;
+  }
+  .g {
+      width: 19.8%;
+      height: 250px;
+      float: left;
+      clear: right;
+  }
+  .h {
+      width: 19.8%;
+      height: 250px;
+      float: left;
+  }
+  .i {
+      width:79.2%;
+      height: 150px;
+      float: left;
+      clear: right ;
+  }
+  }
