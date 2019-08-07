@@ -1,1 +1,58 @@
 
+.a {
+    
+    width: 100%;
+    height: 75px;
+    margin: auto;
+}
+.b {
+    width: 100%;
+    height: 150px;
+    margin:auto;
+
+}
+.c {
+    width: 100%;
+    height: 125px;
+    margin:auto;
+}
+.d {
+
+    width: 100%;
+    height: 125px;
+    margin:auto;
+}
+.ef {
+    width: 50%;
+    height: 250px;
+    text-align: center;
+    float: left;
+    clear: right;
+    position: relative;
+    
+    
+
+}
+.g {
+    clear: left;
+    float: left;
+
+}
+.h {
+    float: left;
+}
+.gh {
+    width: 50%;
+    height: 250px;
+    text-align: center;
+    /*this float is commented*/
+    /* float: left; */
+    position: relative;
+    margin:auto;    
+}
+.i {
+    clear: both;
+    width:100%;
+    height: 80px;
+}
+
