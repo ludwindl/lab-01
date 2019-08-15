@@ -4,6 +4,7 @@ body {
     /*margin: 0 auto;*/
    box-sizing: border-box;
    text-align: center;
+   margin: auto;
 }
 div{
   border:1px solid black;
@@ -21,6 +22,5 @@ body {
 div{
   border:1px solid black;
   box-sizing: border-box;
-  background-color: blue;
 }
 }
