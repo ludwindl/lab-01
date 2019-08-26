@@ -1,65 +1,114 @@
-
-.a {
+/* MOBILE VIEW */
+header {
+    background-color: red;
+  }
+  
+  aside {
+    background-color: blue;
+  }
+  
+  #c {
+    background-color: green;
+  }
+  
+  #d{
+    background-color: darkcyan;
+  }
+  
+  #e {
+    background-color: brown;
+  }
+  
+  #f {
+    background-color: grey;
+  }
+  
+  #g {
+    background-color: purple;
+  }
+  
+  #h {
+    background-color: orange;
+  }
+  
+  #i {
+    background-color: yellow;
+  }
+  
+  /* TABLET VIEW */
+  @media(min-width: 768px){  
+    header {
+      background-color: #FFECA1;
+    }
     
-    width: 100%;
-    height: 75px;
-    margin: auto;
-    background-color: bisque;
-}
-.b {
-    width: 100%;
-    height: 150px;
-    margin:auto;
-    background-color: blueviolet;
-}
-.c {
-    width: 100%;
-    height: 125px;
-    margin:auto;
-}
-.d {
-
-    width: 100%;
-    height: 125px;
-    margin:auto;
-    background-color: rgb(0, 250, 21)
-}
-.e {
-    background-color: rgb(80, 200, 200)
-}
-.ef {
-    width: 50%;
-    height: 250px;
-    text-align: center;
-    float: left;
-    clear: right;
-    position: relative;
-}
-.f{
-    background-color: rgb(100, 150, 100)
-}
-.g {
-    clear: left;
-    float: left;
-    background-color: rgb(0, 200, 0)
-}
-.h {
-    float: left;
-    background-image: linear-gradient(rgb(196, 170, 205), rgb(136, 192, 142));
-}
-.gh {
-    width: 50%;
-    height: 250px;
-    text-align: center;
-    /*this float is commented*/
-    /* float: left; */
-    position: relative;
-    margin:auto;    
-}
-.i {
-    clear: both;
-    width:100%;
-    height: 80px;
-    background-color: rgb(200, 100, 50)
-}
-
+    aside {
+      background-color: #E8CE92;
+    }
+    
+    #c {
+      background-color: #FFDEAD;
+    }
+    
+    #d{
+      background-color: #E8BA92;
+    }
+    
+    #e {
+      background-color: #FFBEA1;
+    }
+    
+    #f {
+      background-color: #FFA599;
+    }
+    
+    #g {
+      background-color: #E88BE3;
+    }
+    
+    #h {
+      background-color: #C0A6FF;
+    }
+    
+    #i {
+      background-color: #5291EB;
+    }
+  }
+  
+  /* DESKTOP VIEW */
+  @media(min-width: 768px){
+    header {
+      background-color: rgb(133, 96, 136);
+    }
+    
+    aside {
+      background-color: rgb(117, 165, 180);
+    }
+    
+    #c {
+      background-color: rgb(0, 243, 0);
+    }
+    
+    #d{
+      background-color: aqua;
+    }
+    
+    #e {
+      background-color: rgb(202, 224, 142);
+    }
+    
+    #f {
+      background-color: lightgrey;
+    }
+    
+    #g {
+      background-color: rgb(124, 90, 124);
+    }
+    
+    #h {
+      background-color: lightcoral
+    }
+    
+    #i {
+      background-color: rgb(180, 219, 107);
+    }
+  }
